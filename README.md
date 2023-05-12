@@ -1,4 +1,4 @@
-# Olá, Me chamo Rafael e sou estudante de programação!
+# Olá, Me chamo Rafael e sou programador Front-end!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaeldev22&show_icons=true&theme=dracula)
